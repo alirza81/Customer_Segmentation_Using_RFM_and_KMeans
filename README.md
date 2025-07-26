@@ -8,7 +8,7 @@ This project applies **RFM analysis** and **KMeans clustering** to identify cust
 - Data scaling with `StandardScaler`
 - Elbow method to find optimal k
 - KMeans clustering
-- 2D and 3D visualizations with cluster centers
+- 2D and 3D visualizations
 - Cluster profiling
 
 ## How to Run
@@ -19,12 +19,13 @@ This project applies **RFM analysis** and **KMeans clustering** to identify cust
 
 ## Example Outputs
 
-![3D Clustering](results\3D cluster.png)
+![3D Clustering](results/3d_clusters.png)
 
 ## Tech Stack
 
 - Python
-- pandas, NumPy
+- pandas 
+- NumPy
 - scikit-learn
 - matplotlib
 
