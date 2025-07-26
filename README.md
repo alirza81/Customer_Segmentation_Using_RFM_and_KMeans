@@ -19,7 +19,7 @@ This project applies **RFM analysis** and **KMeans clustering** to identify cust
 
 ## Example Outputs
 
-![3D Clustering](results/3d_clusters.png)
+![3D Clustering](result_plots/3d_clusters.png)
 
 ## Tech Stack
 
