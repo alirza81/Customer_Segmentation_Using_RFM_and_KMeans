@@ -14,8 +14,7 @@ This project applies **RFM analysis** and **KMeans clustering** to identify cust
 ## How to Run
 
 1. Clone the repo
-2. Put your data in `data/raw/store.csv`
-3. Run the notebook: `notebooks/rfm_analysis.ipynb`
+3. Run the notebook(s)
 
 ## Example Outputs
 
